@@ -1,1 +1,2 @@
-[reqbin](https://reqbin.com/curl) Run curl commands online
+- [reqbin](https://reqbin.com/curl) Run curl commands online.
+- [ipinfo.io](https://ipinfo.io/) Return ip geo, company etc info.
